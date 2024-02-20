@@ -1,4 +1,4 @@
-package com.ilyes.shope.ui.theme
+package com.ilyes.shope.ui.Them
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

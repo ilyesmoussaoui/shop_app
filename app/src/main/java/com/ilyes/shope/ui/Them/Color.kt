@@ -1,4 +1,4 @@
-package com.ilyes.shope.ui.theme
+package com.ilyes.shope.ui.Them
 
 import androidx.compose.ui.graphics.Color
 val md_theme_light_primary = Color(0xFF006781)
